@@ -39,5 +39,3 @@ Click the badge below to run the notebook directly in Colab:
 ## 📌 Author
 Created by **[Asmita Rajendra]** 👩‍💻  
 Master’s in Statistics | Data Enthusiast | Interested in Analytics & Strategy
-Created by **[Your Name]** 👩‍💻  
-Master’s in Statistics | Data Enthusiast | Interested in Analytics & Strategy
