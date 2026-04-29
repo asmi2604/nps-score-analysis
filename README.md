@@ -10,19 +10,8 @@ The analysis covers how customers perceive the product, identifying promoters, p
 - Visualizations for promoters, passives, and detractors
 ---
 
-## Example Insights
+## Insights
 - Distribution of NPS categories
 - Correlation between Fitbit usage and customer satisfaction
 - Potential factors driving promoter vs detractor behavior
 
----
-
-## Requirements
-- Python 3.x
-- Pandas, Numpy, Matplotlib/Seaborn (already available in Google Colab)
-
----
-
-## 📌 Author
-Created by **[Asmita Rajendra]** 👩‍💻  
-Master’s in Statistics | Data Enthusiast | Interested in Analytics & Strategy
