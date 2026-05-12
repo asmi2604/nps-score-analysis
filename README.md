@@ -1,4 +1,4 @@
-# Fitbit NPS Analysis 📊
+# Fitbit NPS Analysis 
 
 This project explores **Net Promoter Score (NPS)** data in the context of **Fitbit users**.  
 The analysis covers how customers perceive the product, identifying promoters, passives, and detractors, and generating insights that could guide product and customer experience improvements.
